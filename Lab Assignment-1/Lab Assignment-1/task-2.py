@@ -8,7 +8,7 @@ def is_prime(n: int) -> bool:
 
 num = int(input("Enter a number: "))
 print(is_prime(num))
-5
+
 
 
 
